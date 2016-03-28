@@ -1,0 +1,3 @@
+## Sensor ##
+----------
+This is the universal sensor used on bandanas, harnesses and so on...

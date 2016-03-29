@@ -1,0 +1,3 @@
+## Sensor ##
+----------
+Le Sensor (Capteur IR) est le capteur universel utilisé sur les bandeaux, harnaises, etc...

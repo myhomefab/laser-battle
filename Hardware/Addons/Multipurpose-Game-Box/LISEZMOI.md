@@ -1,6 +1,6 @@
 ## Multipurpose Game Box ##
 ----------
-La Box multifonctions = Multipurpose Game Box (aka MGB) peut être programée pour effectuer plusieurs fonctions disponibles dans son firmware.  
+La Box multifonctions = Multipurpose Game Box (aka MGB) peut être programmée pour effectuer plusieurs fonctions disponibles dans son firmware.  
 Elle peut être utilisée selon les besoins comme :  
  - Medic Box (Boite médicale)
  - Ammo Box (Boite de munitions)

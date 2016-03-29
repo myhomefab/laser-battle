@@ -1,7 +1,7 @@
 ## Multipurpose Bandana ##
 ----------
 Le Multipurpose bandana (Bandeau multifonctions) porté par des acteurs jouants des rôles dans le jeu :
- - Zombie (Zombiez)
+ - Zombie (Zombies)
  - Civilian (Civils)
  - Prisoners (Prisonniers)
  - Hostages (Hotages)
